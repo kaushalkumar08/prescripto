@@ -1,6 +1,7 @@
+# Prescripto
 Prescripto is a web application designed to streamline prescription management and enhance user experience in healthcare. This full-stack project integrates modern technologies to deliver secure, efficient, and responsive functionality for managing prescriptions.
 
-Features
+## Features
 User Authentication: Secure login and registration for doctors and patients.
 
 Prescription Management: Create, update, and manage prescriptions with ease.
@@ -11,24 +12,24 @@ Responsive Design: Optimized for desktop and mobile devices.
 
 Secure Payments: Integration with Stripe for secure and smooth payment handling.
 
-Tech Stack
+## Tech Stack
 
-Frontend
+### Frontend
 React.js
 
 Tailwind CSS for styling
 
 React Router for navigation
 
-Backend
+### Backend
 Node.js
 
 Express.js
 
-Database
+### Database
 MongoDB
 
-Other Tools and Libraries
+### Other Tools and Libraries
 Stripe for payment integration
 
 JWT for authentication
