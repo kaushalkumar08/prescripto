@@ -38,3 +38,10 @@ Axios for API requests
 
 Toastify for notifications
 
+!<img width="1189" alt="Screenshot 2025-06-18 at 10 04 36 PM" src="https://github.com/user-attachments/assets/209d7e31-fd06-4379-ac92-2cc142d29f71" />
+!<img width="1255" alt="Screenshot 2025-06-18 at 10 04 49 PM" src="https://github.com/user-attachments/assets/56c20e96-896e-4659-a503-dafbb83cfe96" />
+!<img width="1213" alt="Screenshot 2025-06-18 at 10 05 00 PM" src="https://github.com/user-attachments/assets/8b7aefa6-f0c4-402a-a585-4432fed4a0d0" />
+
+
+
+
