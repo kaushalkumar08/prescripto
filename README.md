@@ -44,6 +44,7 @@ Toastify for notifications
 
 ## Admin Panel
 
+<img width="1275" alt="Screenshot 2025-06-18 at 10 09 59 PM" src="https://github.com/user-attachments/assets/884b7e18-3367-4e0c-b5f5-8a44d0913ec3" />
 <img width="1386" alt="Screenshot 2025-06-18 at 10 08 19 PM" src="https://github.com/user-attachments/assets/2199d86c-5923-4bfb-8858-80722c07b93b" />
 <img width="1405" alt="Screenshot 2025-06-18 at 10 08 31 PM" src="https://github.com/user-attachments/assets/882ac460-c5f7-408c-868c-d0c845c48caa" />
 
