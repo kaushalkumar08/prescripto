@@ -1,5 +1,5 @@
 # Prescripto - An E-commerce Doctor Appointment Application
-Prescripto is a web application designed to streamline prescription management and enhance user experience in healthcare. This full-stack project integrates modern technologies to deliver secure, efficient, and responsive functionality for managing prescriptions.
+Prescripto is a web application designed to streamline appointment management and enhance user experience in healthcare. This full-stack project integrates modern technologies to deliver secure, efficient, and responsive functionality for managing prescriptions.
 
 ## Features
 User Authentication: Secure login and registration for doctors and patients.
